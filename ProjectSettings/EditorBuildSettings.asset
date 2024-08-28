@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/QazFinka/Scenes/Menu.unity
+    guid: 4f269df052948e24e850aa27fca7f43c
+  - enabled: 1
+    path: Assets/QazFinka/Scenes/BorderScene.unity
+    guid: df3f9c873adc1a74a9e072a255eace57
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

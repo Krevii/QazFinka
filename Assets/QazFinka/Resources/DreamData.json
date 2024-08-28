@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "description": "Мечта 1",
+      "cost": 100000,
+	  "assetID": 1000,
+      "cashFlow": 10000
+    },
+    {
+      "description": "Мечта 2",
+      "cost": 100000,
+	  "assetID": 1001,
+      "cashFlow": 10000
+    },
+    {
+      "description": "Мечта 3",
+      "cost": 100000,
+	  "assetID": 1003,
+      "cashFlow": 10000
+    },
+    {
+      "description": "Мечта 4",
+      "cost": 100000,
+	  "assetID": 1004,
+      "cashFlow": 10000
+    },
+    {
+      "description": "Мечта 5",
+      "cost": 100000,
+	  "assetID": 1005,
+      "cashFlow": 10000
+    }
+  ]
+}

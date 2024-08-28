@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "description": "Первое описание",
+      "price": 50.0,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Второе описание",
+      "price": 6000.0,
+      "cashFlow": 10.0
+    },
+    {
+      "description": "третье описание",
+      "price": 1.0,
+      "cashFlow": 0.0
+    }
+  ]
+}

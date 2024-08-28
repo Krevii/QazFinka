@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "description": "Акции KazGas",
+      "cost": 500.0,
+	  "assetID": 100,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции KazGas",
+      "cost": 800.0,
+	  "assetID": 100,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции KazGas",
+      "cost": 1000.0,
+	  "assetID": 100,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции KazGas",
+      "cost": 1200.0,
+	  "assetID": 100,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции KazGas",
+      "cost": 1500.0,
+	  "assetID": 100,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции Каспийский Поток",
+      "cost": 750.0,
+	  "assetID": 101,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции Каспийский Поток",
+      "cost": 1200.0,
+	  "assetID": 101,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции Каспийский Поток",
+      "cost": 1650.0,
+	  "assetID": 101,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции Каспийский Поток",
+      "cost": 2100.0,
+	  "assetID": 101,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции Каспийский Поток",
+      "cost": 2550.0,
+	  "assetID": 101,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции банка 'Золотой Стандарт'",
+      "cost": 250.0,
+	  "assetID": 102,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции банка 'Золотой Стандарт'",
+      "cost": 350.0,
+	  "assetID": 102,
+      "cashFlow": 0.0
+    },
+    {
+      "description": "Акции банка 'Золотой Стандарт'",
+      "cost": 500.0,
+	  "assetID": 102,
+      "cashFlow": 0.0
+    },
+   {
+      "description": "Акции банка 'Золотой Стандарт'",
+      "cost": 650.0,
+	  "assetID": 102,
+      "cashFlow": 0.0
+    },
+	{
+      "description": "Акции банка 'Золотой Стандарт'",
+      "cost": 750.0,
+	  "assetID": 102,
+      "cashFlow": 0.0
+    }
+    
+	
+  ]
+}
